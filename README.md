@@ -37,7 +37,7 @@ $ npm install -g json-server
 Then run the server:
 
 ```console
-$ json-server --watch db.json
+$ json-server --watch db.json 
 ```
 
 This will setup the data on a server using RESTful routes at
